@@ -3,7 +3,7 @@ var angle ;
 
 var rules = [] ;
 
-/* Koch curve 
+/* Koch curve */
 var axiom = "F" ;
 
 rules[0] = {
@@ -11,7 +11,7 @@ rules[0] = {
   b: "F+F-F-F+F"
 } ;
 
-var angle = 90 ; */
+var angle = 90 ; 
 
 /* Sierpinski triangle 
 var axiom = "F-G-G" ;
@@ -28,15 +28,15 @@ rules[1] = {
 
 var angle = 120 ;*/
 
-/* Tree  */
+/* Tree  
 var axiom = "F" ;
 
 rules[0] = {
   a: "F",
   b: "FF+[+F-F-F]-[-F+F+F]"
-} ;
+} ; 
 
-var angle = 25 ; 
+var angle = 25 ; */
 
 
 var sentence = axiom ;
