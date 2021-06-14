@@ -2,7 +2,7 @@
 
 "An L-system or Lindenmayer system is a parallel rewriting system and a type of formal grammar" [see Wikipedia](https://en.wikipedia.org/wiki/L-system"). This code was initially inspired by the work of Daniel Shiffman in this domain.
 
-The js file containes grammar definition for 3 systems:
+The js file contains grammar definition for 3 systems:
 
 # Koch curve
 <img src="./screenshots/koch.png" width="600">   
